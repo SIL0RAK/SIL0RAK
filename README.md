@@ -7,4 +7,4 @@
 
 ### You can find me here:
 ![Tux, the Linux mascot](https://www.codewars.com/users/carlux/badges/micro)
-
+[LinkedIn](www.linkedin.com/in/karolis-krušinskas-11070496)
