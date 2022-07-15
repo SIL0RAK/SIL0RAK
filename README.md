@@ -82,7 +82,6 @@
 
 <img 
     alt="SIL0RAK Top Languages"
-    align="right"
     width="37%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIL0RAK&theme=tokyonight"
 />
