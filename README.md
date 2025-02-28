@@ -1,6 +1,5 @@
 
-<h1 align="center"><b>Hello there, I'm SIL0RAK 👋</b></h1>
-<h4 align="center"><b>"What I cannot create, I do not understand"</b></h4>
+<h1 align="center"><b>Hello there 👋</b></h1>
 
 <p align="center">
     <br>
