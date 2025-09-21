@@ -18,7 +18,7 @@
 ## I am a Software Engineer;
 - 👯 I’m looking to collaborate with other Developers
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2025 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the boundaries!
 - 🔭 I’m currently working on business solutions.
 - 🌱 I’m currently learning Rust.
