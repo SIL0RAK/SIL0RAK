@@ -21,7 +21,6 @@
 - 🥅 2025 Goals: Contribute to Open Source projects
 - 🧗 I try to: Go beyond and push the boundaries!
 - 🔭 I’m currently working on business solutions.
-- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on small common issues.
 
 <br>
